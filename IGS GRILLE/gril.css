@@ -1,0 +1,30 @@
+body{
+    background-color: #444;
+    font-size: 65px;
+    line-height: 55px;
+    color:#ffff;
+    margin-left: 200px;
+    margin-top:200px;
+}
+.bleu{
+  border: 8px;
+  background: #0000FF;
+  width: 20px;
+}
+.rouge{
+    border: 8px;
+    background:red;
+    width:20px;
+}
+
+.Orange{
+    border:8px;
+    background: orangered;
+    width: 20px;
+}
+
+.gris{
+    border:8px;
+    background:grey;
+    width: 20px;
+}
